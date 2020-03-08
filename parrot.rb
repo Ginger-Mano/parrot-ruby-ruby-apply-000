@@ -1,6 +1,6 @@
 def parrot(speak = "Squawk!")
   puts "#{speak}"
-  return "Pretty bird!"
+  return speak
 end
 
 
